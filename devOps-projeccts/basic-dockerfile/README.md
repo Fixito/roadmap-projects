@@ -1,4 +1,4 @@
-# Image Grid
+# Basic Dockerfile
 
 This is a solution of the [Basic Dockerfile](https://roadmap.sh/projects/basic-dockerfile).When this Docker image is run, it should print “Hello, Captain!” to the console before exiting.
 
